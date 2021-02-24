@@ -2,8 +2,11 @@
 
 Bem vindo ao *livro de receitas*
 
+###### Curso beeeeemmmm básico de git - Digital Innovation One - Bootcamp Inter
+
 - Brownie
 
-  [^1]: Curso beeeeemmmm básico de git - Digital Innovatio One - Bootcamp Inter
+  
+  
 
   
